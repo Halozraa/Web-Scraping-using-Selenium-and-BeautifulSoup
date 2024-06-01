@@ -1,18 +1,18 @@
-HANYA UNTUK TUJUAN PEMBELAJARAN
+FOR LEARNING PURPOSES ONLY
 =============================================================
 
-Selamat datang!
+Welcome!
 
-Script ini hanya ditujukan untuk keperluan pembelajaran dan demonstrasi. Penggunaan skrip ini untuk tujuan lain, termasuk tetapi tidak terbatas pada penggunaan komersial, dapat melanggar hukum atau peraturan yang berlaku.
+This script is only intended for learning and demonstration purposes. Use of this script for other purposes, including but not limited to commercial use, may violate applicable laws or regulations.
 
-Jika Anda ingin menggunakan skrip ini untuk tujuan komersial atau proyek yang serius, kami sarankan untuk memeriksa dan mengikuti ketentuan lisensi yang sesuai.
+If you want to use this script for commercial purposes or serious projects, we recommend checking and following the appropriate license terms.
 
-Penulis skrip ini tidak bertanggung jawab atas penggunaan yang tidak pantas atau penyalahgunaan skrip ini.
+The author of this script is not responsible for any inappropriate use or misuse of this script.
 
-Terima kasih telah memilih skrip ini untuk pembelajaran Anda. Kami berharap Anda menemukan informasi yang berguna dan pengalaman pembelajaran yang berharga dari penggunaan skrip ini.
+Thank you for choosing this script for your learning. We hope you find the information useful and a valuable learning experience from using these scripts.
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami.
+If you have any questions or feedback, please feel free to contact us.
 
-Selamat belajar!
+Happy learning!
 
 =============================================================
